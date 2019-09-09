@@ -1,7 +1,5 @@
 package com.tss.dicegame;
 
-import java.sql.SQLOutput;
-
 public class Game {
 
     public static void main(String[] args) {
